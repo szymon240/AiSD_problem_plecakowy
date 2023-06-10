@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(24,28): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(134,27): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(136,31): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(186,38): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(193,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(195,27): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(219,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(221,27): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(245,28): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(292,30): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(294,34): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphRep.h(368,31): warning C4018: '<': signed/unsigned mismatch
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphsGen.hpp(36,33): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Politechnika\AiS\GraphsEuler\GraphsEuler\GraphsEuler\GraphsGen.hpp(38,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GraphsEuler.vcxproj -> D:\Politechnika\AiS\GraphsEuler\GraphsEuler\Debug\GraphsEuler.exe
